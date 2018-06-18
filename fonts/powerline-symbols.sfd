@@ -193,10 +193,10 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-1060 -375 m 1
+1000 -425 m 1
  0 788 l 1
- 1060 1950 l 1
- 1060 -375 l 1
+ 1000 1955 l 1
+ 1000 -425 l 1
 EndSplineSet
 EndChar
 
@@ -224,11 +224,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-50 2020 m 1
- 1060 2020 l 1
- 1060 -500 l 1
- 50 -500 l 1
- 50 2020 l 1
+-100 2200 m 1
+ 1000 2200 l 1
+ 1000 -750 l 1
+ -100 -750 l 1
+ -100 2200 l 1
 EndSplineSet
 EndChar
 EndChars
